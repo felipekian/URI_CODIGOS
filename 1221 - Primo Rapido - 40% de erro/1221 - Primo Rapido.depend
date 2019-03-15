@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1483395986 source:c:\users\felipe\desktop\teste em c\1221 - primo rapido\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1484136984 source:c:\users\felipe\desktop\teste em c\1221 - primo rapido - 40% de erro\main.c
+	<stdio.h>
+	<math.h>
+

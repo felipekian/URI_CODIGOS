@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1483212150 source:c:\users\felipe\desktop\teste em c\1241 - encaixa ou nao ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
