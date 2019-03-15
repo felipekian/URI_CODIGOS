@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1470798293 source:c:\users\felipe\desktop\teste em c\torredehanoi-desafiov-gentillopes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1470798293 source:d:\meus documentos\faculdade -felipe\4° semestre\matemática discreta\trabalho\desafio 4 - ok\torredehanoi-desafio4- sequencia do disco selecionado -gentillopes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

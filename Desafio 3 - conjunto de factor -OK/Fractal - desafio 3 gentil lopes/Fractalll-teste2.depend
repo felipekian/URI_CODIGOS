@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1470792865 source:c:\users\felipe\desktop\teste em c\fractalll-teste2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1470793488 source:d:\meus documentos\faculdade -felipe\4° semestre\matemática discreta\trabalho\desafio 3 - conjunto de factor -ok\fractal - desafio 3 gentil lopes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

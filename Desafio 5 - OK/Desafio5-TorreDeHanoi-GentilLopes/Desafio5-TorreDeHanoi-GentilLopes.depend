@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1470799397 source:c:\users\felipe\desktop\teste em c\desafio5-torredehanoi-gentillopes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
