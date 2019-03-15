@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478117719 source:c:\users\felipe\desktop\teste em c\torredehanoi recursivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

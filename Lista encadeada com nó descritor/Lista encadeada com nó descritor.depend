@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1487374056 source:d:\meus documentos\faculdade -felipe\teste em c\lista encadeada com nó descritor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lst_enc_descritor.h"
+
+1487375260 d:\meus documentos\faculdade -felipe\teste em c\lista encadeada com nó descritor\lst_enc_descritor.h
+

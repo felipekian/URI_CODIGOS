@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1472652469 source:c:\users\felipe\desktop\teste codebloks\obi uri - 2062\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1472661198 source:c:\users\felipe\desktop\obi uri - 2062\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

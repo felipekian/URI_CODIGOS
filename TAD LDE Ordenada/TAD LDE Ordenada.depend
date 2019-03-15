@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1485900852 source:c:\users\felipe\desktop\teste em c\tad lde ordenada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1485943528 c:\users\felipe\desktop\teste em c\tad lde ordenada\lista.h
+
