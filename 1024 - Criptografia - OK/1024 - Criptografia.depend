@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479996379 source:c:\users\felipe\desktop\teste em c\1024 - criptografia\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

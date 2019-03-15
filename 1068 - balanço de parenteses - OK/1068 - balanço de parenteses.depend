@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482094981 source:c:\users\felipe derkian\desktop\teste em c\1068 - balanço de parenteses\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
