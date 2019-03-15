@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1480559392 source:c:\users\felipe\desktop\teste em c\1707 - jogo com numeros- valendo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1480682860 source:c:\users\felipe\desktop\teste em c\1707 - jogo com numeros- tle\main.c
+	<stdio.h>
+	<stdlib.h>
+
