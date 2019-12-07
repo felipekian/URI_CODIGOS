@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479208388 source:c:\users\felipe\desktop\teste em c\2147 - galopeira - 40% de erro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

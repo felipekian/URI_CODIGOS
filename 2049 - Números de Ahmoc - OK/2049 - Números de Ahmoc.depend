@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485614527 source:c:\users\felipe\desktop\teste em c\2049 - números de ahmoc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

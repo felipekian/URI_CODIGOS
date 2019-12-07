@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479000842 source:c:\users\felipe derkian\desktop\teste em c\2286 - par ou impar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1487442986 source:d:\meus documentos\faculdade -felipe\teste em c\lista duplamente encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lst_duplamente_encadeada.h"
+
+1487458635 d:\meus documentos\faculdade -felipe\teste em c\lista duplamente encadeada\lst_duplamente_encadeada.h
+

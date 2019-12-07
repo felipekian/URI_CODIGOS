@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1477313392 source:c:\users\felipe derkian\desktop\teste em c\2023 - a ultima criança boa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1481890836 source:c:\users\felipe derkian\desktop\teste em c\2023 - a ultima criança boa - só falta colocar o eof...esta funcionando\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

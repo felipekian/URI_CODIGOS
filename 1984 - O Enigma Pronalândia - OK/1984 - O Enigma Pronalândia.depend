@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1474941647 source:c:\users\felipe\desktop\teste em c\1984 - o enigma pronalândia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

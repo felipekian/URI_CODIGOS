@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1482599636 source:c:\users\felipe\desktop\teste em c\1278 - justificador ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1487376666 source:d:\meus documentos\faculdade -felipe\teste em c\lista dinamica encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_dinamica.h"
+
+1487439092 d:\meus documentos\faculdade -felipe\teste em c\lista dinamica encadeada\lista_dinamica.h
+

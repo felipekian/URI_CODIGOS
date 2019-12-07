@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1483372565 source:c:\users\felipe\desktop\teste em c\1263 - aliteração\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

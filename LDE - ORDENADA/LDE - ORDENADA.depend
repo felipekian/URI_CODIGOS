@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1485965114 source:c:\users\felipe\desktop\teste em c\lde - ordenada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LDE.h"
+
+1485965417 c:\users\felipe\desktop\teste em c\lde - ordenada\lde.h
+
+1485962774 source:c:\users\felipe\desktop\teste em c\lde - ordenada\lde.c
+	<stdlib.h>
+	<stdio.h>
+	"LDE.h"
+
